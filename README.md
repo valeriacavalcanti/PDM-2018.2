@@ -20,6 +20,8 @@ Códigos [Android](https://developer.android.com/index.html) desenvolvidos em sa
 03 | 25/09/2018 | Telas | Navegação entre telas, no App (Intent)
 04 | 27/09/2018 | Arrocha | Jogo do Arrocha 1.0 (Exercício)
 05 | 27/09/2018 | Arrocha | Jogo do Arrocha 2.0 (Exercício)
+06 | 28/09/2018 | Arrocha | Jogo do Arrocha 3.0 (Exercício)
+07 | 28/09/2018 | Recursos | Recursos do Android chamados via Intent
 
 
 ## **iOS**

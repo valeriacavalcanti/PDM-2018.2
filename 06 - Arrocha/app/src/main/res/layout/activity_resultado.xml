@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ResultadoActivity">
+
+    <TextView
+        android:id="@+id/tvResultadoMensagem"
+        android:text="kkkkkk"
+        android:textSize="80sp"
+        android:gravity="center"
+        android:layout_weight="9"
+        android:layout_width="match_parent"
+        android:layout_height="0dp" />
+
+    <TextView
+        android:id="@+id/tvResultadoTentativas"
+        android:text="kkkkkk"
+        android:textColor="#FFFFFF"
+        android:background="#00aaff"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp" />
+</LinearLayout>
