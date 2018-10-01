@@ -22,7 +22,7 @@ Códigos [Android](https://developer.android.com/index.html) desenvolvidos em sa
 05 | 27/09/2018 | Arrocha | Jogo do Arrocha 2.0 (Exercício)
 06 | 28/09/2018 | Arrocha | Jogo do Arrocha 3.0 (Exercício)
 07 | 28/09/2018 | Recursos | Recursos do Android chamados via Intent
-
+08 | 01/10/2018 | Recursos | Foto funcionando!
 
 ## **iOS**
 Códigos [iOS](https://developer.apple.com/develop/) desenvolvidos em sala de aula.
