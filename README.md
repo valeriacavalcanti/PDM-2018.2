@@ -25,6 +25,8 @@ Códigos [Android](https://developer.android.com/index.html) desenvolvidos em sa
 08 | 01/10/2018 | Recursos | Foto funcionando!
 09 | 11/10/2018 | IFPB | ListView com Layout do Android e Click (curto e longo) nos Itens da Lista
 10 | 18/10/2018 | IFPB | Passagem de Parâmetros na chamada de Activity
+11 | 19/10/2018 | IFPB | Intent Filter
+12 | 19/10/2018 | UsaURL | Intent Filter
 
 ## **iOS**
 Códigos [iOS](https://developer.apple.com/develop/) desenvolvidos em sala de aula.
