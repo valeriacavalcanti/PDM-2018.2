@@ -27,6 +27,7 @@ Códigos [Android](https://developer.android.com/index.html) desenvolvidos em sa
 10 | 18/10/2018 | IFPB | Passagem de Parâmetros na chamada de Activity
 11 | 19/10/2018 | IFPB | Intent Filter
 12 | 19/10/2018 | UsaURL | Intent Filter
+13 | 01/11/2018 | Eventos | BroadcastReceiver e Intent Filter
 
 ## **iOS**
 Códigos [iOS](https://developer.apple.com/develop/) desenvolvidos em sala de aula.
