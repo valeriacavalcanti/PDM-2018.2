@@ -29,6 +29,7 @@ Códigos [Android](https://developer.android.com/index.html) desenvolvidos em sa
 12 | 19/10/2018 | UsaURL | Intent Filter
 13 | 01/11/2018 | Eventos | BroadcastReceiver e Intent Filter
 14 | 08/11/2018 | Carregador | BroadcastReceiver e Intent Filter
+15 | 09/11/2019 | Amiguinhos | Banco de Dados (SQLite)
 
 
 ## **iOS**
