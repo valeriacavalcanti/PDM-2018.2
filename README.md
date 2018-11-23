@@ -31,6 +31,8 @@ Códigos [Android](https://developer.android.com/index.html) desenvolvidos em sa
 14 | 08/11/2018 | Carregador | BroadcastReceiver e Intent Filter
 15 | 09/11/2019 | Amiguinhos | Banco de Dados (SQLite)
 16 | 22/11/2018 | Amiguinhos | BaseAdapter
+17 | 23/11/2018 | Imagem | Resolução de Imagens
+
 
 ## **iOS**
 Códigos [iOS](https://developer.apple.com/develop/) desenvolvidos em sala de aula.
