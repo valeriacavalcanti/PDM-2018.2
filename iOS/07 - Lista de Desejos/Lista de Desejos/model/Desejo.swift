@@ -26,7 +26,7 @@ class Desejo: NSObject, NSCoding {
     // arquivo -> memória
     required init?(coder aDecoder: NSCoder) {
         self.descricao = aDecoder.decodeObject(forKey: "descricao") as! String
-        self.realizado = aDecoder.decodeObject(forKey: "realizado") as! Bool
+        self.realizado = aDecoder.decodeBool(forKey: "realizado")
     }
     
     // memória -> arquivo
